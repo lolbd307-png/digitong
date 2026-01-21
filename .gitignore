@@ -1,0 +1,9 @@
+# AI Models
+ai-engine/models/
+
+# Gradle
+.gradle/
+**/build/
+
+# Local
+local.properties
